@@ -1,0 +1,19 @@
+{
+  "name": "kakaomap",
+  "version": "1.0.0",
+  "description": "카카오 지도 검색 서비스",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/umsungjun/KakaoMap.git"
+  },
+  "author": "SungJun Um",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umsungjun/KakaoMap/issues"
+  },
+  "homepage": "https://github.com/umsungjun/KakaoMap#readme"
+}
