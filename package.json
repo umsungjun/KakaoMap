@@ -4,7 +4,7 @@
   "description": "카카오 지도 검색 서비스",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": ""
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/umsungjun/KakaoMap/issues"
   },
-  "homepage": "https://github.com/umsungjun/KakaoMap#readme"
+  "homepage": "https://github.com/umsungjun/KakaoMap#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.84.1",
+    "webpack-cli": "^5.1.1",
+    "webpack-dev-server": "^4.15.0"
+  }
 }
