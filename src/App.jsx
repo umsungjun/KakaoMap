@@ -1,3 +1,3 @@
 export const App = () => {
-  return <div>Hello React!</div>;
+  return <div className="react">Hello React!</div>;
 };
